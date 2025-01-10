@@ -1,17 +1,17 @@
 {
 	"schemaVersion": 1,
 	"id": "firstmodlearningbasics",
-	"version": "${version}",
+	"version": "1.0.0",
 	"name": "First Mod Learning Basics",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Basics of Fabric on 1.21.4",
 	"authors": [
-		"Me!"
+		"OaksTheAwesome"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
+		"homepage": "https://youtube.com/@oakstheawesome/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/firstmodlearningbasics/icon.png",
 	"environment": "*",
 	"entrypoints": {
