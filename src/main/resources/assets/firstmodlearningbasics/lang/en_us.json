@@ -1,3 +1,6 @@
 {
-  "item.firstmodlearningbasics.suspicious_substance": "Suspicious Substance"
+  "item.firstmodlearningbasics.suspicious_substance": "Suspicious Substance",
+  "item.firstmodlearningbasics.pear": "Pear",
+
+  "itemTooltip.firstmodlearningbasics.suspicious_substance.tooltip": "This dust is... sus"
 }

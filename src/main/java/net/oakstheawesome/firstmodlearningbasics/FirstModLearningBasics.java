@@ -13,6 +13,8 @@ public class FirstModLearningBasics implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.initialize();
+		ModItems.registerFuels();
+		ModItems.registerCompostables();
 		LOGGER.info("Beembus Boombus");
 	}
 }
